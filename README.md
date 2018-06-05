@@ -2,7 +2,7 @@
 
 ## Tarefas
 
-Implemente a aplicação descrita baixo utilizando [AngularJS](https://angularjs.org/) .
+Implemente a aplicação descrita abaixo utilizando [AngularJS](https://angularjs.org/) .
 
 O site https://reqres.in/ disponibiliza mocks para api, e provê tanto autenticação como um crud completo do que o desenvolvedor precisar.
 
